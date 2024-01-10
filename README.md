@@ -1,38 +1,48 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+# YouTube Clone Documentation
 
-## Creating a project
+## Introduction
 
-If you're seeing this, you've probably already done this step. Congrats!
+This project aims to create a YouTube clone using the SvelteKit framework, serving as a practical challenge to deepen understanding of Svelte. SvelteKit is a modern full-stack framework known for its speed and efficiency, often touted as faster than React.
+
+## SvelteKit Overview
+
+SvelteKit is a front-end framework that allows developers to build web applications with a focus on simplicity and performance. It seamlessly integrates with the backend to create a cohesive full-stack development experience.
+
+## Project Setup
+
+To get started, ensure that Node.js and npm are installed on your machine. Then, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone git@github.com:sir-george2500/youtube_clone_v1.git
+   cd youtube_clone_v1
+
+
+   ```
+ Install the dependecies
+
+  ```bash
+   npm install
+
+  ```
+
+## Run the Applications
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+    npm run dev
 ```
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+
+
+
+
 
 ```bash
 npm run dev
 
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
