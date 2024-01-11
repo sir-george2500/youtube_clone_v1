@@ -1,6 +1,5 @@
 <script>
 	import SearchBar from "./SearchBar.svelte";
-
 </script>
 <header class="flex px-4 items-center h-[64px] py-2 bg-white z-10 justify-between sticky top-0 left-0">
     <div class="flex gap-4 items-center">
