@@ -11,6 +11,10 @@
     {
         icon:'libraryIcon',
         title:'library'
+    },
+    {
+        icon:'subIcon',
+        title:'subscription'
     }
  ]
 </script>

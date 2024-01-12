@@ -4,5 +4,10 @@
     import './styles.css'
 </script>
 <Header/>
-<SideBar/>
-<slot />
+
+<div class="flex">
+	<SideBar/>
+	<main class="ml-[74px] p-6">
+		<slot />
+	</main>
+</div>
