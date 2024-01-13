@@ -2,7 +2,7 @@
     <div class="max-w-[360px]">
         <img src="/avatar.jpg" class="w-[136px] h-[136px] rounded-full" alt="Channel Avatar">
     </div>
-    <div class="flex  gap-4 items-center">
+    <div class="flex  gap-4 items-center mr-10">
         <div style="white-space: nowrap;">
             <h1 class="capitalize font-medium text-lg mb-2">
                 Clever Engineer
@@ -21,7 +21,7 @@
             </p>
         </div>
     </div>
-    <button class="m flex items-center bg-black text-white px-4 py-2 rounded-full ">
+    <button class="flex items-center bg-black text-white px-4 py-2 rounded-full ">
         Subscribe
     </button>
 </div>
