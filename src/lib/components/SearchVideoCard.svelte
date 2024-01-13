@@ -1,4 +1,4 @@
-<div class="flex gap-8 cursor-pointer  bg-white rounded-md ">
+<a href="/" class="flex gap-8 cursor-pointer  bg-white rounded-md ">
     <img src="/thumbnail.webp" class="max-w-[360px] object-cover aspect-video rounded-2xl w-full items-center" alt=""/>
     <div>
         <h1 class="capitalize font-medium text-lg ">Svelt is not a hyped</h1>
@@ -24,4 +24,4 @@
             <p class="rounded bg-gray-200 text-gray=800 text-xs font-semibold py-0.5 px-1">4K</p>
         </div>
     </div>
-</div>
+</a>

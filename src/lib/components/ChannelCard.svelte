@@ -1,4 +1,4 @@
-<div class="flex justify-around gap-4  cursor-pointer w-screen items-center p-4 bg-white rounded-md pr-20">
+<a href="/" class="flex justify-around gap-4  cursor-pointer w-screen items-center p-4 bg-white rounded-md pr-20">
     <div class="max-w-[360px]">
         <img src="/avatar.jpg" class="w-[136px] h-[136px] rounded-full" alt="Channel Avatar">
     </div>
@@ -24,5 +24,5 @@
     <button class="flex items-center bg-black text-white px-4 py-2 rounded-full ">
         Subscribe
     </button>
-</div>
+</a>
 <hr/>
