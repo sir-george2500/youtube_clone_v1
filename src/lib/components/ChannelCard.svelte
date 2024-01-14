@@ -21,7 +21,7 @@
             </p>
         </div>
     </div>
-    <button class="flex items-center bg-black text-white px-4 py-2 rounded-full ">
+    <button class="flex items-center bg-black text-white px-4 py-2 rounded-full font-semibold">
         Subscribe
     </button>
 </a>
