@@ -4,9 +4,4 @@
     import './styles.css'
 </script>
 <Header/>
-<div class="">
-	<SideBar/>
-	<main class="ml-[74px] p-6">
-		<slot />
-	</main>
-</div>
+<slot />
