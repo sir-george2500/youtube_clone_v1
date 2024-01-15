@@ -4,7 +4,7 @@
 
 
 <a href="/" class="relative">
-    <div class="relative">
+    <div class="relative ">
         <div class="absolute bg-black/80 text-white text-xs font-semibold rounded bottom-0 right-1 px-1">10:30</div>
         <img src="/thumbnail.webp" alt="" class="sm:h-[208px] h-[250px] w-full object-cover rounded-2xl bg-gray-200">
     </div>

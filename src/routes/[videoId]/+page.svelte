@@ -19,7 +19,7 @@ let videoId =''
 	/>
 		<h1 class="text-xl font-semibold capitalize py-2">Svelte is better</h1>
 		<div class="flex flex-col md:flex-grow gap-5 item-start mt-2">
-			<div>
+			<div class="flex-1">
 				<ChannelInfo />
 				<VideoDescription/>
 				<Comments />
